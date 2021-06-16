@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tim Wolfram
-- 👀 I’m interested in Bata Science and Bioinformatics
+- 👀 I’m interested in Data Science and Bioinformatics
 - 🌱 I’m currently learning how to apply deep learning tools on large data sets
 - 💞️ I’m looking to collaborate on Bioinformatics Projects, but I am al ways open to new stuff
 - 📫 How to reach me www.linkedin.com/in/twdata
